@@ -1,4 +1,4 @@
-2xjzgsjzfhzhm1
+export const dayOne: string = `2xjzgsjzfhzhm1
 qhklfjd39rpjxhqtftwopfvrrj2eight
 95btwo
 lfsqldnf3onenplgfxdjzjjnpzfxnineseven
@@ -997,4 +997,5 @@ kqrcrqrqjbdeight7ckhr23
 oneeight2
 8eightnhtqcggtxc6dfsfcjfpznmsthree
 sxfvfdkff8dvlmbdktsixmzpnxzmml2
-9lgmxktj1frxl
+9lgmxktj1frxl`;
+

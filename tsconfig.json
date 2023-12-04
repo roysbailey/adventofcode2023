@@ -3,7 +3,11 @@
       "target": "ESNext",
       "module": "commonjs",
       "moduleResolution": "Node",
+      "esModuleInterop": true,
       "outDir": "out",
-      "sourceMap": true
-   }
+      "sourceMap": true,
+      "types": ["jest", "node"]
+   },
+   "include": ["src/**/*.ts", "test/**/*.ts"],
+   "exclude": ["node_modules"]   
  }
